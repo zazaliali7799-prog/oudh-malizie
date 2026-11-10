@@ -2,7 +2,7 @@
 
 Laman web korporat satu halaman dalam Bahasa Melayu untuk Oudh Malizie Resources.
 
-**Laman web:** https://zazaliali7799-prog.github.io/oudh-malizie/
+**Laman web:** https://oudhmalizie.com/
 
 ## Kandungan
 
@@ -25,3 +25,7 @@ GitHub Pages menerbitkan kandungan daripada akar cabang `main`. Perubahan pada `
 ## Hak kandungan
 
 Kandungan dan gambar syarikat disediakan melalui profil Oudh Malizie Resources. Repositori awam ini tidak memberikan lesen penggunaan semula kandungan atau gambar.
+
+## Domain khas
+
+Domain utama: `oudhmalizie.com`. `www.oudhmalizie.com` menunjuk kepada `zazaliali7799-prog.github.io` dan dialihkan ke domain utama oleh GitHub Pages. DNS diuruskan melalui Cloudflare. Fail `CNAME` mengekalkan tetapan domain semasa penerbitan semula.
